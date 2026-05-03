@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Mesh Wa2t Kalam – Not the time to talk |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 30, 2026 |
+| Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mesh-wa2t-kalam-not-the-time-to-talk/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليالي الشوق خذيني للغرام
+> قلبي ينادي بصوت بلا كلام.. بلا كلام..
+> روحي تسافر في نور السلام
+> نار الهوى تكوي، مش وقت كلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
