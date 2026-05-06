@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mesh-wa2t-kalam-not-the-time-to-talk/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [License this song: Mesh Wa2t Kalam – Not the time to talk](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Sync Licensing for Mesh Wa2t Kalam – Not the time to talk](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
