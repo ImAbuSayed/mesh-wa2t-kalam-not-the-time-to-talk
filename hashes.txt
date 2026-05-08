@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mesh Wa2t Kalam – Not the time to talk
+
+This log tracks the cryptographic history and versioning for the song **Mesh Wa2t Kalam – Not the time to talk** (mesh-wa2t-kalam-not-the-time-to-talk).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:12:08.861221 | `v1` | `ba643297c8b412234235d1a5765308ba3266ea0fc6ab69f205ba11bb5c58f074` | `71b65e3a9d76a13f4befcf4b42b1c2d28920de6fcabf1fde77a34e9afcaf0d14` | `2026-05-09_mesh-wa2t-kalam-not-the-time-to-talk-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
